@@ -55,3 +55,6 @@ using (var scope = app.Services.CreateScope())
 https://localhost:your-application-hosted-port/watchdog
 
 Then enter your credential you will see all the logging details. Or you can also see the logging details into the SQL Database Table 'WatchDog_WatchLog'
+
+
+You can also see the official documentation here https://www.nuget.org/packages/WatchDog.NET/1.2.0
