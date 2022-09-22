@@ -13,7 +13,7 @@ Here we need 5 nuget packages:
 ## WatchDog.NET
 WatchDog is a Realtime HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view http requests made to their web application and also exception caught during runtime in their web applications in Realtime.
 
-## How to WatchDog.NET
+## How to use WatchDog.NET
 Add below code in Program.cs
 ```
 builder.Services.AddWatchDogServices(opt =>
